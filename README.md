@@ -1,5 +1,6 @@
 # CNPM_G9
-CS4273 
+CS4273
+
 Participants:
 
 - Leader: Trương Văn Sỹ 18521698 
@@ -16,5 +17,5 @@ Tech stacks:
 - Front-end: ReactJS
 - Back-end: NodeJS
 - Database: Mongoose
-...
+- ...
 Demo online: [link to website - update later]
