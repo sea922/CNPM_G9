@@ -1,5 +1,5 @@
 # CNPM_G9
-CS4273
+# Cinema ticket sales management
 
 Participants:
 
