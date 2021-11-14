@@ -10,7 +10,7 @@
 
 # Task management table: [Here](https://trello.com/b/No7gkNti/cnpmg9)
 
-# UI / UX prototype: here [Replace by your public prototype later]
+# UI / UX prototype: here [Here](https://www.figma.com/file/13CEug0aqQ5WlM7dInN1n2/Login-1?node-id=0%3A1)
 
 # Tech stacks:
 
