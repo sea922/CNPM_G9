@@ -1,0 +1,1 @@
+export const GET_ALL_CONTACT = "GET_ALL_CONTACT";
