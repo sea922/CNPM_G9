@@ -32,7 +32,12 @@ const HomePage = ({
   }, []);
   return (
     <Fragment>
-      <MovieBanner movie={randomMovie} height="85vh" />
+      {/* <MovieBanner movie={randomMovie} height="85vh" /> */}
+      <Box height={160} />
+      <h1>WELCOME TO G9 CINEMA </h1>
+      <h1>BOOK YOUR TICKET FOR MOVIE </h1>
+      <h2>Safe, secure, reliable ticketing. Your ticket to live entertainment!</h2>
+      <Box height={100} />
       <Box height={60} />
       <MovieCarousel
         carouselClass={classes.carousel}

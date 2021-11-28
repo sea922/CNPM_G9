@@ -1,6 +1,7 @@
 export default (theme) => ({
   root: {
     backgroundColor: theme.palette.background.default,
+    backgroundImage:"url(https://i.imgur.com/0PPaRPt.jpeg)",
     height: "100vh",
   },
   grid: {
@@ -12,12 +13,14 @@ export default (theme) => ({
     },
   },
   bg: {
-    backgroundColor: theme.palette.common.neutral,
+    //backgroundColor: theme.palette.common.neutral,
     height: "100%",
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
-    backgroundImage: "url(https://source.unsplash.com/featured/?cinema)",
+    //backgroundImage:"url(https://images.unsplash.com/photo-1627133805103-ce2d34ccdd37?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)",
+
+    //backgroundImage: "url(https://source.unsplash.com/featured/?cinema)",
     backgroundSize: "cover",
     backgroundRepeat: "no-repeat",
     backgroundPosition: "center",

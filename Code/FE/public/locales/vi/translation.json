@@ -1,0 +1,252 @@
+{
+  "register": {
+    "title": "Tạo mới tài khoản",
+    "desc": "Sử dụng email của bạn để tạo mới tài khoản... miễn phí.",
+    "name": "Họ tên",
+    "username": "Tên tài khoản",
+    "email": "Đỉa chỉ email",
+    "phone": "Số điện thoại",
+    "password": "Mật khẩu",
+    "first-policy": "Tôi đồng ý với",
+    "second-policy": "Điều khoản và Chính sách",
+    "btn": "Đăng ký",
+    "question": "Đã có tài khoản?",
+    "link": "Đăng nhập"
+  },
+  "login":{
+    "sign-in" : "Đăng nhập",
+    "login" : "Đăng nhập",
+    "haveAccount" : "Chưa có tài khoản?",
+    "register": "đăng ký"
+  },
+  "contact":{
+    "title": "Liên hệ",
+    "desc": "Nói cho chúng tôi biết suy nghĩ của bạn!",
+    "btn": "Gửi tin nhắn",
+    "message": "Tin nhắn",
+    "hint": "Bạn muốn nói với chúng tôi điều gì?"
+  },
+  "cinemas":{
+    "title": "Rạp",
+    "perMovie": "mỗi phim",
+    "seatsAvailable": "chỗ"
+  },
+  "promotions":{
+    "title": "Khuyến mãi"
+  },
+  "dashboard":{
+    "account": "Tài khoản",
+    "reservations": "Vé đã đặt",
+    "movie": "Phim",
+    "cinema": "Rạp",
+    "date": "Ngày",
+    "startAt": "Giờ chiếu",
+    "method": "Phương thức",
+    "total": "Tổng tiền",
+    "rowsPerPage": "Hàng"
+  },
+    "category":{
+    "search": "Tìm theo tên",
+    "notExist": "Không có phim nào!"
+  },
+  "validate": {
+    "nameRq": "Họ tên là bắt buộc",
+    "nameMin": "Họ tên ít nhất phải 5 ký tự",
+    "usernameRq": "Tên người dùng là bắt buộc",
+    "usernameMin": "Tên người dùng ít nhât phải 5 ký tự",
+    "usernameMax": "Tên người dùng nhiều nhât 16 ký tự",
+    "emailRq": "Email là bắt buộc",
+    "emailInvalid": "Email không hợp lệ",
+    "phoneRq": "Số điện thoại là bắt buộc",
+    "phoneInvalid": "Số điện thoại không hợp lệ",
+    "passwordRq": "Mật khẩu là bắt buộc",
+    "passwordDesc": "Mật khẩu có ít nhất là 8 ký tự, trong đó có 1 chữ thường, 1 chữ hoa và 1 số",
+    "passwordMin": "Mật khẩu có ít nhất 8 ký tự",
+    "passwordMax": "Mật khẩu có ít nhất 32 ký tự",
+    "avatarRq": "Ảnh đại diện là bắt buộc",
+    "policyRq": "Chấp nhận Điều khoản và Chính sách",
+    "messageRq": "Tin nhắn là bắc buộc"
+  },
+  "btn": {
+    "upload": "Tải lên"
+  },
+  "admin": {
+    "sidebar": {
+      "dashboard": "Bảng điều khiển",
+      "movies": "Quản lý phim",
+      "cinemas": "Quản lý rạp chiếu",
+      "showtimes": "Quản lý lịch chiếu",
+      "users": "Quản lý người dùng",
+      "account": "Quản lý tài khoản",
+      "reservations": "Quản lý vé ",
+      "promotions": "Quản lý khuyến mãi",
+      "contacts": "Quản lý liên hệ"
+    },
+    "movies": {
+      "title": "Tên phim",
+      "genre": "Thể loại phim",
+      "language": "Ngôn ngữ phim",
+      "description": "Mô tả phim",
+      "director": "Đạo diễn phim",
+      "cast": "Diễn viên phim",
+      "duration": "Thời lượng phim",
+      "releaseDate": "Ngày phát hành",
+      "endDate": "Ngày kết thúc",
+      "add": "Thêm phim",
+      "delete": "Xóa phim",
+      "update": "Cập nhật phim",
+      "minutes": "Phút",
+      "search": "Tìm kiếm phim",
+      "requiredTitle": "Nhhập tên phim !",
+      "requiredGenre": "Nhập thể loại phim !",
+      "requiredLanguage": "Nhập ngôn ngữ",
+      "requiredDirector": "Nhập tên đạo diễn",
+      "requiredCast": "Nhập tên diễn !",
+      "requiredDuration": "Nhập thời lượng phim !",
+      "requiredDescription": "Nhập mô tảt phim !"
+    },
+    "cinemas": {
+      "add": "Thêm rạp chiếu",
+      "update": "Cập nhật rạp chiếu",
+      "delete": "Xóa rạp chiếu",
+      "name": "Tên rạp chiếu",
+      "city": "Địa chỉ (thành phố)",
+      "ticketPrice": "Giá vé",
+      "seatsAvailable": "Số lượng chỗ ngồi",
+      "addRow": "Thêm chỗ ngồi mỗi hàng",
+      "seatsOfRow": "Số lợng chỗ ngồi của hàng ",
+      "permovie": "Mỗi phim",
+      "seats": "Chỗ",
+      "remove": "Xóa",
+      "search": "Tìm kiếm rạp",
+      "requiredName": "Nhập tên!",
+      "requiredCity": "Nhập địa chỉ !",
+      "requiredTicketPrice": "Nhập giá vé !",
+      "requireSeatsAvailable": "Nhập số chỗ ngồi !"
+    },
+    "showtimes": {
+      "tableName": "Danh sách lịch chiếu",
+      "add": "Thêm lịch chiếu",
+      "update": "Cập nhật lịch chiếu",
+      "delete": "Xóa lịch chiếu",
+      "requiredTime": "Chọn thời gian chiếu !",
+      "requiredMovie": "Chọn phim !",
+      "requiredCinema": "Chọn rạp chiếu !",
+      "time": "Thời gian chiếu",
+      "movie": "Phim",
+      "cinema": "Rạp chiếu",
+      "startDate": "Ngày bắt đầu",
+      "endDate": "Ngày kết thúc"
+    },
+    "users": {
+      "tableName": "Danh sách người dùng",
+      "name": "Tên người dùng",
+      "phone": "Số điện thoại người dùng",
+      "email": "Địa chỉ email",
+      "username": "Tên đăng nhập",
+      "detail": "Chi tiết người dùng",
+      "update": "Cập nhật người dùng"
+    },
+    "dashboard": {
+      "totalUsers": "Số lượng người dùng",
+      "totalMovies": "Số lượng phim",
+      "totalCinemas": "Số lượng rạp chiếu",
+      "sinceLastMonth": "Kể từ tháng trước",
+      "totalReservation":"Tổng lượng vé đặt"
+    },
+    "account": {
+      "cardName": "Thông tin tài khoản",
+      "joinAt": "Thời gian tạo",
+      "update": "Cập nhật tài khoản",
+      "save": "Lưu"
+    },
+    "promotion": {
+      "search": "Tìm kiếm khuyến mãi",
+      "add": "Thêm khuyến mãi",
+      "title": "Tiêu đề khuyến mãi",
+      "discount": "Phần trăm giảm giá",
+      "description": "Mô tả",
+      "startDate": "Ngày bắt đầu",
+      "endDate": "Ngày kết thúc",
+      "requiredTitle": "Nhập tiêu đề!",
+      "requiredDiscount": "Nhập giảm giá!",
+      "requiredDesc": "Nhập mô tả !",
+      "delete": "Xóa khuyến mãi",
+      "requiredCode": "Nhập mã khuyến mãi",
+      "code": "Mã giảm giá"
+    },
+    "reservation": {
+      "name": "Tên",
+      "movie": "Phim",
+      "cinema": "Rạp",
+      "status": "Thanh toán",
+      "paymentmethod": "Phương thức",
+      "date": "Ngày",
+      "time": "Giờ",
+      "seats": "Chỗ ngồi",
+      "listuncheck": "Danh sách đơn đặt chưa checkin",
+      "listchecked": "Danh sách đơn đặt đã checkin",
+      "total": "Tổng",
+      "confirmCheckin": "Xác nhận checkin.",
+      "confirmDelete": "Xác nhận xóa",
+      "confirmPay": "Xác nhận thanh toán"
+    },
+    "contacts":{
+      "name":"Tên người gửi",
+      "email":"Email",
+      "phone":"Số điện thoại",
+      "message":"Tin nhắn liên hệ"
+    }
+  },
+  "public": {
+    "navbar": {
+      "home" : "Trang Chủ",
+      "showing": "Đang Công Chiếu",
+      "coming": "Sắp Ra Mắt",
+      "cinemas": "Rạp",
+      "promotions": "Khuyến mãi",
+      "contact": "Liên hệ",
+      "dashboard": "Trang Thông Tin",
+      "logout": "Đăng Xuất",
+      "login": "Đăng Nhập"
+    },
+    "home":{
+      "learnmore": "Xem Thêm",
+      "buyticket": "Đặt Vé",
+      "suggest": "Đề xuất cho bạn",
+      "by": "Sản Xuất Bởi",
+      "min": "phút",
+      "exploreall": "Xem Tất Cả",
+      "footer": "CNPM"
+    }},
+  "moviedetail": {
+    "requiredLogin": "Bạn phải đăng nhập trước khi mua vé ?",
+    "accept": "Chấp nhân",
+    "cancel": "Hủy",
+    "buytickets": "Mua vé",
+    "director": "Đạo diễn",
+    "minute": "phút",
+    "learnmore": "Chi tiết",
+    "cast": "Diễn viên",
+    "genre": "Thể loại"
+  },
+  "booking": {
+    "selectCinema": "Chọn rạp chiếu",
+    "date": "Chọn ngày",
+    "time": "Chọn thời gian",
+    "seatsAvailable": "Chỗ ngồi có sẵn",
+    "reservedSeats": "Chỗ đã được đặt",
+    "selectedSeats": "Chố được chọn",
+    "name": "Tên",
+    "tickets": "Số vé",
+    "price": "Giá",
+    "payment": "Thanh toán",
+    "nocinema": "Không có rạp chiếu cho phim này",
+    "paymentmethod": "Chọn phương thức thanh toán",
+    "typecode": "Nhập mã giảm giá",
+    "discount": "Phần trăm giảm giá",
+    "check": "Kiêm tra",
+    "total": "Thành tiền",
+    "confirm": "Xác nhận thanh toán"
+  }
+}

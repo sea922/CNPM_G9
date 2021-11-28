@@ -15,7 +15,8 @@ export default {
   default: {
     light: "rgba(41, 150, 243, .1)",
     main: "rgba(0, 40, 73, .9)",
-    dark: "rgb(0, 40, 73)",
+    //dark: "rgb(0, 40, 73)",
+    //dark: `url(${"https://i.imgur.com/0PPaRPt.jpeg"})`,
     logoBg: "rgb(51, 51, 51)",
     border: "rgba(0, 40, 73, .1)",
     contrastText: white,
@@ -53,7 +54,8 @@ export default {
   background: {
     paper: "rgb(45, 45, 45)",
     default: "rgb(26, 26, 26)",
-    dark: "rgb(26, 26, 26)",
+    //dark: "rgb(26, 26, 26)",
+    dark: `url(${"https://i.imgur.com/0PPaRPt.jpeg"})`
   },
   border: "#DFE3E8",
   divider: "#DFE3E8",

@@ -25,7 +25,8 @@ export default theme => ({
       height: '100%',
       padding: theme.spacing(3),
       paddingTop: theme.spacing(9),
-      backgroundColor: theme.palette.background.default,
+      backgroundColor: `url(${"https://i.imgur.com/0PPaRPt.jpeg"})`,
+      //backgroundColor: theme.palette.background.default,
       transition: theme.transitions.create('margin', {
         easing: theme.transitions.easing.sharp,
         duration: theme.transitions.duration.leavingScreen

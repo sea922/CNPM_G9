@@ -8,6 +8,7 @@ export default (theme) => ({
       paddingLeft: theme.spacing(2),
       paddingRight: theme.spacing(2),
     },
+    
   },
   title: {
     color: theme.palette.common.contrastText,

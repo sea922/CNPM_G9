@@ -11,7 +11,7 @@ var showtimeRouter = require("./routes/showtime");
 var promotionRouter = require("./routes/promtions");
 var reservationRouter = require("./routes/reservation");
 
-var cors = require("cors");
+var cors = require("cors");//lay anh tu cloud
 var app = express();
 var mongoose = require("mongoose");
 app.use(cors());
@@ -52,7 +52,8 @@ app.use("/reservations", reservationRouter);
 
 //Si09022000@
 
-//Admin12345678
-//Te12345678
+//Admin12345678--admin
+//Te12345678--employee
+//Test12345678 -- guest
 
 module.exports = app;

@@ -2,6 +2,7 @@ export default (theme) => ({
   root: {
     backgroundColor: theme.palette.background.default,
     height: "100vh",
+    backgroundImage:"url(https://i.imgur.com/0PPaRPt.jpeg)",
   },
   grid: {
     height: "100%",
@@ -13,8 +14,8 @@ export default (theme) => ({
   },
   bg: {
     backgroundColor: theme.palette.common.neutral,
-    backgroundImage: "url(https://source.unsplash.com/featured/?cinema)",
-    height: "100%",
+    //backgroundImage: "url(https://source.unsplash.com/featured/?cinema)",
+    //height: "100%",
     display: "flex",
     justifyContent: "center",
     alignItems: "center",

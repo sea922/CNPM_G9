@@ -21,7 +21,7 @@ function ContactTable(props) {
   return (
     <div>
       <MaterialTable
-        title={"abc"}
+        title={"Contact"}
         columns={[
           { title: t("admin.contacts.name"), field: "name" },
           { title: t("admin.contacts.email"), field: "email" },

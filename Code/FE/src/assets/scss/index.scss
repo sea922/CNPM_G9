@@ -3,6 +3,11 @@
     margin: 0;
     padding: 0;
 }
+h1,h2{
+    color: deepskyblue;
+    text-align: center;
+}
+
 
 html {
     height: 100%;
@@ -11,7 +16,8 @@ html {
 }
 
 body {
-    background: rgb(26, 26, 26);
+    //background: rgb(26, 26, 26);
+    background-image: url("https://images.unsplash.com/photo-1596445836561-991bcd39a86d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
     font-family: 'Montserrat', sans-serif;
     height: 100%;
 }
@@ -42,5 +48,6 @@ select:-webkit-autofill:focus {
     border: 1px solid;
     -webkit-text-fill-color: #fff;
     -webkit-box-shadow: 0 0 0px 1000px #1a1a1a inset;
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
     transition: background-color 5000s ease-in-out 0s;
 }

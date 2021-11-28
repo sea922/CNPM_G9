@@ -10,13 +10,13 @@
 
 # Task management table: [Here](https://trello.com/b/No7gkNti/cnpmg9)
 
-# UI / UX prototype: here [Here](https://www.figma.com/file/13CEug0aqQ5WlM7dInN1n2/Login-1?node-id=0%3A1)
+# UI / UX prototype: here [Here](https://www.figma.com/file/8rv488WKRoPSTikooDt1gY/UI%2FUX)
 
 # Tech stacks:
 
 - Front-end: ReactJS
 - Back-end: NodeJS / Express
-- Database: PostgreSQL
+- Database: MongoDB
 - ...
 
 # Demo online: [link to website - update later]
